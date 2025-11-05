@@ -1,0 +1,25 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+.venv/
+env/   # only ignore if this is a virtual environment, not your code
+.venv310
+
+# Ignore sensitive config files
+*.env
+secrets.json
+
+# Ignore system/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore Kaggle API key
+.kaggle
+
+home-credit-default-risk.zip/
+*.zip
+Data/
