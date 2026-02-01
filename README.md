@@ -47,12 +47,15 @@ ENV/
 │   ├── ..........           # Cleaned and processed datasets
 │   └── data_final.csv       # Final dataset used for modeling
 │
+
 ├── used_lib/
 │   └── requirements.txt     # Python dependencies
 |
+
 |── Ml_Flow 
 │    └── paris_neighborhood_models.pkl
 |
+
 ├── Import_and_EDA_Final.ipynb
 ├── ML_Notebook.ipynb
 └── README.md
